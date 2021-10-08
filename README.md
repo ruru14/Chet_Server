@@ -1,2 +1,2 @@
 # Chet_Server
-Toy Project : Console chatting program (Client)
+Toy Project : Console chatting program (Server)
